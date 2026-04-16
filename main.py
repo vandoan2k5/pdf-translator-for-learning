@@ -93,7 +93,7 @@ def translate_with_openai(img: Image.Image, api_key: str, model_name: str) -> st
 
 
 # Default values (fallback nếu frontend không gửi)
-DEFAULT_API_KEY = "AIzaSyAOFPFeZrW5foHOBwFqashqfHwruznsabw"
+DEFAULT_API_KEY = "xxx"
 DEFAULT_MODEL_GEMINI = "gemini-2.5-flash"
 DEFAULT_MODEL_OPENAI = "gpt-4o"
 
